@@ -18,7 +18,7 @@
     'version': '0.1',
     # any module necessary for this one to work correctly
     'depends': [],
-    'images': ['static/description/icon.png', 'static/description/banner.jpg'],
+    'images': ['static/description/banner.jpg'],
     # always loaded
     'data': [
         'security/ir.model.access.csv',
